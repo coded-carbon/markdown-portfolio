@@ -1,1 +1,5 @@
-Replace this with your name, and include a header.
+# coded carbon
+
+---
+
+### because we are the carbon from which diamonds are made
