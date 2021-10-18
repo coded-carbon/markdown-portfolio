@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+# my favourite food from around the world
+
+* Caribbean
+  * Jamaican
+* Asian
+  * Thai
+  * Indian   
